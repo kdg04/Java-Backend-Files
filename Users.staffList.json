@@ -1,0 +1,570 @@
+[{
+  "_id": {
+    "$oid": "66105189bdf8839d18ea964e"
+  },
+  "id": 23,
+  "sem": 7,
+  "name": "Rakesh Mohan",
+  "mob": "8569336743",
+  "email": "rakesh@gmail.com",
+  "msgs": [
+    {
+      "date": "10/6/2023",
+      "msg": "Please join the workshop at 12 pm",
+      "from": "Admin",
+      "seen": "false"
+    },
+    {
+      "date": "19/2/2024",
+      "msg": "You are requested to stay back late till 7 pm",
+      "from": "Kavita",
+      "seen": "true"
+    },
+    {
+      "date": "06/04/2024",
+      "msg": "Please contribute a part of your salary to college improvement fund.",
+      "from": "Admin",
+      "seen": "false"
+    },
+    {
+      "date": "06/04/2024",
+      "msg": "hi sir meeting within 15 mn.",
+      "from": "Admin",
+      "seen": "true"
+    },
+    {
+      "date": "08/04/2024",
+      "msg": "gather in 5 minutes",
+      "from": "Admin",
+      "seen": "false"
+    },
+    {
+      "date": "21/04/2024",
+      "msg": "Happy New Year ",
+      "from": "Admin",
+      "seen": true
+    }
+  ],
+  "token": "Hkjuojmfo6v30i56l",
+  "dept": "IT",
+  "newMsg": false,
+  "profileImage": "C:\\User Pics\\userId 23.jpg",
+  "aboutMe": "Happy go lucky"
+},
+{
+  "_id": {
+    "$oid": "66105189bdf8839d18ea964f"
+  },
+  "id": 17,
+  "name": "Abhisekh Kale",
+  "mob": "9594263876",
+  "email": "abhi456@gmail.com",
+  "grade": 2,
+  "msgs": [
+    {
+      "date": "10/6/2023",
+      "from": "Admin",
+      "msg": "Please join the seminar online at 2 pm"
+    },
+    {
+      "date": "6/1/2024",
+      "from": "Admin",
+      "msg": "Your leave application has been granted"
+    },
+    {
+      "date": "06/04/2024",
+      "from": "Admin",
+      "msg": "Please contribute a part of your salary to college improvement fund."
+    },
+    {
+      "date": "08/04/2024",
+      "from": "Admin",
+      "msg": "gather in 5 minutes"
+    },
+    {
+      "date": "08/04/2024",
+      "from": "Admin",
+      "msg": "gather in 5 minutes"
+    }
+  ],
+  "token": "Hkjuojmdfgk872wer",
+  "dept": "Mech",
+  "newMsg": true
+},
+{
+  "_id": {
+    "$oid": "66105189bdf8839d18ea9650"
+  },
+  "id": 79,
+  "name": "Shrikant Sharma",
+  "mob": "9587956327",
+  "email": "sharmaShri@yahoo.com",
+  "grade": 1,
+  "msgs": [
+    {
+      "date": "10/6/2023",
+      "from": "Animesh",
+      "msg": "Please submit your bills latest by tomorrow"
+    },
+    {
+      "date": "06/04/2024",
+      "from": "Admin",
+      "msg": "hi sir meeting within 15 mn."
+    },
+    {
+      "date": "11/04/2024",
+      "from": "Admin",
+      "msg": "Hello from Rakesh"
+    }
+  ],
+  "token": "x02dr1kdfg45la7",
+  "dept": "IT",
+  "newMsg": true
+},
+{
+  "_id": {
+    "$oid": "66105189bdf8839d18ea9651"
+  },
+  "id": 88,
+  "name": "Kalpana Dhore",
+  "mob": "8876943507",
+  "email": "kalpana_dhore@gmail.com",
+  "grade": 2,
+  "msgs": [
+    {
+      "date": "10/6/2023",
+      "from": "Admin",
+      "msg": "Please join the seminar online at 2 pm"
+    },
+    {
+      "srno": 2,
+      "date": "6/1/2024",
+      "from": "Admin",
+      "msg": "Your leave application has been granted"
+    }
+  ],
+  "token": "jkDp4k8s2I89d0f0",
+  "dept": "Civil",
+  "newMsg": false
+},
+{
+  "_id": {
+    "$oid": "66105189bdf8839d18ea9652"
+  },
+  "id": 39,
+  "name": "Animesh Deshmukh",
+  "mob": "9960385468",
+  "email": "animesh2000@gmail.com",
+  "grade": 1,
+  "msgs": [
+    {
+      "date": "10/6/2023",
+      "msg": "Your DA has been cleared",
+      "from": "Admin",
+      "seen": true
+    },
+    {
+      "date": "6/1/2024",
+      "msg": "Your leave application has been granted",
+      "from": "Admin",
+      "seen": true
+    },
+    {
+      "date": "06/04/2024",
+      "msg": "Please contribute a part of your salary to college improvement fund.",
+      "from": "Admin",
+      "seen": true
+    },
+    {
+      "date": "06/04/2024",
+      "msg": "hi sir meeting within 15 mn.",
+      "from": "Admin",
+      "seen": true
+    },
+    {
+      "date": "11/04/2024",
+      "msg": "Hello from Rakesh",
+      "from": "Admin",
+      "seen": true
+    }
+  ],
+  "token": "Pg62s4o6fqLd8X",
+  "dept": "IT",
+  "newMsg": false,
+  "aboutMe": "undefined",
+  "profileImage": "C:\\User Pics\\userId 39.jpg"
+},
+{
+  "_id": {
+    "$oid": "66105189bdf8839d18ea9653"
+  },
+  "id": 52,
+  "name": "Ajay Mhasal",
+  "mob": "7389620955",
+  "email": "Mhasalyaja@yahoo.com",
+  "grade": 2,
+  "msgs": [
+    {
+      "date": "10/6/2023",
+      "from": "Robert",
+      "msg": "Please join the seminar online at 2 pm"
+    },
+    {
+      "date": "08/04/2024",
+      "from": "Admin",
+      "msg": "gather in 5 minutes"
+    }
+  ],
+  "token": "x02dr1kdFEfg45la7",
+  "dept": "IT",
+  "newMsg": true
+},
+{
+  "_id": {
+    "$oid": "66105189bdf8839d18ea9654"
+  },
+  "id": 67,
+  "name": "Kavita Krishnamurthy",
+  "mob": "9736759298",
+  "email": "kavitaKrish@gmail.com",
+  "grade": 2,
+  "msgs": [
+    {
+      "date": "10/6/2023",
+      "from": "Admin",
+      "msg": "Please join the seminar online at 2 pm"
+    },
+    {
+      "date": "6/1/2024",
+      "from": "Admin",
+      "msg": "Your appraisal has been reviewed"
+    },
+    {
+      "date": "6/1/2024",
+      "from": "Admin",
+      "msg": "You are requested to conduct extra sessions this week"
+    },
+    {
+      "date": "06/04/2024",
+      "from": "Admin",
+      "msg": "Please contribute a part of your salary to college improvement fund."
+    },
+    {
+      "date": "08/04/2024",
+      "from": "Admin",
+      "msg": "gather in 5 minutes"
+    },
+    {
+      "date": "08/04/2024",
+      "from": "Admin",
+      "msg": "gather in 5 minutes"
+    },
+    {
+      "date": "11/04/2024",
+      "from": "Admin",
+      "msg": "Hello from Rakesh"
+    }
+  ],
+  "token": "CxW92Wxc6SOH4b7",
+  "dept": "Mech",
+  "newMsg": true
+},
+{
+  "_id": {
+    "$oid": "6611061f7c4e35a9ab9e11bb"
+  },
+  "id": 0,
+  "name": "Admin",
+  "mob": "9276896705",
+  "email": "admin@gmail.com",
+  "grade": 2,
+  "msgs": [
+    {
+      "date": "10/6/2023",
+      "msg": "Sir please grace the occasion by your invaluable presence",
+      "from": "ShriHari",
+      "seen": false
+    },
+    {
+      "date": "16/3/2024",
+      "msg": "Thank you Sir",
+      "from": "Rakesh Mohan",
+      "seen": "false"
+    }
+  ],
+  "token": "CxW92dh4k7s39jep",
+  "dept": "--",
+  "newMsg": false
+},
+{
+  "_id": {
+    "$oid": "662a8eb8267d6716f524dbc7"
+  },
+  "id": 89,
+  "name": "Kalpana dhore",
+  "mob": "9897654321",
+  "email": "shriharid998@gmail.com",
+  "msgs": [],
+  "token": "",
+  "dept": "IT",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": "",
+  "sem": 2
+},
+{
+  "_id": {
+    "$oid": "662a964ebc7ef15f692dcc9e"
+  },
+  "id": 90,
+  "name": "Shri dhore",
+  "mob": "9897654321",
+  "email": "shriharid998@gmail.com",
+  "msgs": [],
+  "token": "",
+  "dept": "CS",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": "",
+  "grade": 2
+},
+{
+  "_id": {
+    "$oid": "662b67f1bc7ef15f692dcca4"
+  },
+  "id": 91,
+  "name": "Runank Patil",
+  "mob": "9897659876",
+  "email": "runank_patil@gmail.com",
+  "msgs": [],
+  "token": "",
+  "dept": "IT",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": "",
+  "sem": 8
+},
+{
+  "_id": {
+    "$oid": "662b6860bc7ef15f692dcca8"
+  },
+  "id": 92,
+  "name": "Runank Patil",
+  "mob": "9897659876",
+  "email": "runank_patil@gmail.com",
+  "msgs": [],
+  "token": "",
+  "dept": "IT",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": "",
+  "sem": 8
+},
+{
+  "_id": {
+    "$oid": "662b9330bc7ef15f692dccb1"
+  },
+  "id": 93,
+  "name": "Kalpesh Patil",
+  "mob": "9897654321",
+  "email": "fghj@gmail.com",
+  "msgs": [],
+  "token": "",
+  "dept": "IT",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": "",
+  "sem": 9
+},
+{
+  "_id": {
+    "$oid": "662b9435bc7ef15f692dccb2"
+  },
+  "id": 94,
+  "name": "nimesh deshpande",
+  "mob": "9897654321",
+  "email": "depande@gmail.com",
+  "msgs": [],
+  "token": "",
+  "dept": "IT",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": "",
+  "sem": 0
+},
+{
+  "_id": {
+    "$oid": "662b95f4bc7ef15f692dccb3"
+  },
+  "id": 95,
+  "name": "Rudra Kulkarni",
+  "mob": "9897654321",
+  "email": "rudra@gmail.com",
+  "msgs": [],
+  "token": "",
+  "dept": "CS",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": "",
+  "sem": 7
+},
+{
+  "_id": {
+    "$oid": "662b9659bc7ef15f692dccb4"
+  },
+  "id": 96,
+  "name": "Ajay Mhasal",
+  "mob": "9897654325",
+  "email": "newton@gmail.com",
+  "msgs": [],
+  "token": "",
+  "dept": "CS",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": "",
+  "sem": 7
+},
+{
+  "_id": {
+    "$oid": "662b9a383960b67bf87380ef"
+  },
+  "id": 97,
+  "name": "Ujwal Gaikwad",
+  "mob": "9897654329",
+  "email": "ujwal@gmail.com",
+  "msgs": [],
+  "token": "",
+  "dept": "CS",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": "",
+  "grade": 2
+},
+{
+  "_id": {
+    "$oid": "662b9c593960b67bf87380f2"
+  },
+  "id": 98,
+  "name": "Runank Deshmukh",
+  "mob": "9897654321",
+  "email": "ganaraachal@gmail.com",
+  "sem": 7,
+  "msgs": [],
+  "token": "",
+  "dept": "IT",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": ""
+},
+{
+  "_id": {
+    "$oid": "662e3231c18d701d62204b8a"
+  },
+  "id": 99,
+  "name": "suresh babu",
+  "mob": "9897654608",
+  "email": "sureshbabu@gmail.com",
+  "grade": 2,
+  "msgs": [],
+  "token": "",
+  "dept": "CS",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": ""
+},
+{
+  "_id": {
+    "$oid": "662e36ad15815b7f52fb47cd"
+  },
+  "id": 100,
+  "name": "Kunal  Hemke",
+  "mob": "8877665588",
+  "email": "kunal_hemke@gmail.com",
+  "grade": 2,
+  "msgs": [],
+  "token": "",
+  "dept": "Civil",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": ""
+},
+{
+  "_id": {
+    "$oid": "662e372215815b7f52fb47cf"
+  },
+  "id": 101,
+  "name": "Neha Hemke",
+  "mob": "8879513410",
+  "email": "kunal_hemke@gmail.com",
+  "grade": 2,
+  "msgs": [],
+  "token": "",
+  "dept": "Mech",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": ""
+},
+{
+  "_id": {
+    "$oid": "663f12452c04ae0706c0040d"
+  },
+  "id": 102,
+  "name": "Somesh Nagrikar",
+  "mob": "9146042879",
+  "email": "someshnagrikar@gmail.com",
+  "sem": 7,
+  "msgs": [],
+  "token": "",
+  "dept": "IT",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": ""
+},
+{
+  "_id": {
+    "$oid": "663f13772c04ae0706c00413"
+  },
+  "id": 103,
+  "name": "Ankush Hatwar",
+  "mob": "9876543210",
+  "email": "ankushhatwar@gmail.com",
+  "sem": 7,
+  "msgs": [],
+  "token": "",
+  "dept": "Mech",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": ""
+},
+{
+  "_id": {
+    "$oid": "663f15c72c04ae0706c00414"
+  },
+  "id": 104,
+  "name": "Amit Watkar",
+  "mob": "9699846956",
+  "email": "amitwatkar@gmail.com",
+  "grade": 1,
+  "msgs": [],
+  "token": "",
+  "dept": "Civil",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": ""
+},
+{
+  "_id": {
+    "$oid": "663f163c2c04ae0706c00415"
+  },
+  "id": 105,
+  "name": "Musale kaka",
+  "mob": "9123469900",
+  "email": "muslekaka@gmail.com",
+  "grade": 1,
+  "msgs": [],
+  "token": "",
+  "dept": "Mech",
+  "newMsg": false,
+  "profileImage": "",
+  "aboutMe": ""
+}]

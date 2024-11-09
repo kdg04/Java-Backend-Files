@@ -1,0 +1,1 @@
+mongod.exe --config c:/MongoDB2/bin/mongodb2.cfg --install --serviceName "MongoDB2" --serviceDisplayName "MongoDB2"

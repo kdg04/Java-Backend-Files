@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6622af1fb26ca21eb63db06e"
+  },
+  "name": "assign4.pdf",
+  "dept": "IT",
+  "sem": 7,
+  "Date": "10/6/2023"
+},
+{
+  "_id": {
+    "$oid": "6622af1fb26ca21eb63db06f"
+  },
+  "name": "file-example_PDF_1MB.pdf",
+  "dept": "Mech",
+  "Date": "12/6/2023"
+},
+{
+  "_id": {
+    "$oid": "6622af1fb26ca21eb63db070"
+  },
+  "name": "file-example_PDF_500_kB.pdf",
+  "dept": "Mech",
+  "Date": "15/6/2023"
+},
+{
+  "_id": {
+    "$oid": "6622af1fb26ca21eb63db071"
+  },
+  "name": "file-sample_150kB.pdf",
+  "dept": "Mech",
+  "Date": "7/6/2023"
+},
+{
+  "_id": {
+    "$oid": "6622af1fb26ca21eb63db072"
+  },
+  "name": "Homework_1.pdf",
+  "dept": "IT",
+  "sem": 7,
+  "Date": "10/6/2023"
+},
+{
+  "_id": {
+    "$oid": "6622af1fb26ca21eb63db073"
+  },
+  "name": "Homework_2.pdf",
+  "dept": "IT",
+  "sem": 7,
+  "Date": "17/6/2023"
+},
+{
+  "_id": {
+    "$oid": "6622af1fb26ca21eb63db074"
+  },
+  "name": "Homework_3.pdf",
+  "dept": "IT",
+  "sem": 7,
+  "Date": "21/6/2023"
+}]

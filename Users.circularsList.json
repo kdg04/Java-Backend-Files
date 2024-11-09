@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6610851255a36835bce053be"
+  },
+  "circularDraft": "Please attend today's staff meeting at 11:30 AM.",
+  "dept": "IT",
+  "subject": "Staff Meeting",
+  "Date": "10/6/2023"
+},
+{
+  "_id": {
+    "$oid": "66138bbfb2d0386f857d966c"
+  },
+  "circularDraft": "Conduct Faculty Feedback",
+  "dept": "Mech",
+  "subject": "in-house survey",
+  "Date": "12/6/2023"
+},
+{
+  "_id": {
+    "$oid": "6610851255a36836fce043be"
+  },
+  "circularDraft": "Please attend today's staff meeting at 1:30 PM.",
+  "dept": "Civil",
+  "subject": "Staff Meeting",
+  "Date": "10/6/2023"
+},
+{
+  "_id": {
+    "$oid": "6610851263a36835bce053be"
+  },
+  "circularDraft": "Please gather for condolance prayer",
+  "dept": "IT",
+  "subject": "Prayer Meeting",
+  "Date": "11/6/2023"
+},
+{
+  "_id": {
+    "$oid": "6910331255a36835bce053be"
+  },
+  "circularDraft": "Conduct re-exam of SOM internal",
+  "dept": "Mech",
+  "subject": "Re-exam",
+  "Date": "12/6/2023"
+},
+{
+  "_id": {
+    "$oid": "7610851255a21835bce053be"
+  },
+  "circularDraft": "Deliver fresh assignments and set submission deadline.",
+  "dept": "IT",
+  "subject": "Schedule assignments",
+  "Date": "13/6/2023"
+},
+{
+  "_id": {
+    "$oid": "663f0cb12c04ae0706c00409"
+  },
+  "circularDraft": "All are expected to visit site at 3pm",
+  "dept": "Civil",
+  "subject": "Site Visit"
+},
+{
+  "_id": {
+    "$oid": "663f18422c04ae0706c00417"
+  },
+  "circularDraft": "for 7th sem",
+  "dept": "IT",
+  "subject": "Timetable"
+}]

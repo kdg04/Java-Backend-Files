@@ -1,0 +1,377 @@
+[{
+  "_id": {
+    "$oid": "65ffe76ccac99c149aac3950"
+  },
+  "client_id": "53xFi0DA1BAk2C-_-gK1",
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": {
+    "$date": "2024-03-24T08:42:20.352Z"
+  },
+  "client_secret_expires_at": {
+    "$date": "2024-03-24T09:42:20.352Z"
+  },
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "redirect_uris": [
+    "https://OAuth2Client:8445/OAuth2Client/GetCode"
+  ],
+  "registration_access_token": "Bearer 6TZOx9_DEaAGKEqbJ-BG-mXcL3wne91jWltNrC_olI8",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "65ffe7dc0335152d12c0530a"
+  },
+  "client_id": "yVdS0sakj6Ut7chKi22L",
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": {
+    "$date": "2024-03-24T08:44:12.582Z"
+  },
+  "client_secret_expires_at": {
+    "$date": "2024-03-24T09:44:12.582Z"
+  },
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "redirect_uris": [
+    "https://OAuth2Client:8445/OAuth2Client/GetCode"
+  ],
+  "registration_access_token": "Bearer YU7piUsSorfvLAlzkqwpzgzIWkSX1V0_bzPHVPEfiOE",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "660044a59085ad6cc54f07b3"
+  },
+  "client_id": "gXCdr-bGZTsRdR25uR9Z",
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": {
+    "$date": "2024-03-24T15:20:05.577Z"
+  },
+  "client_secret_expires_at": {
+    "$date": "2024-03-24T16:20:05.577Z"
+  },
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "redirect_uris": [
+    "https://OAuth2Client:8445/OAuth2Client/GetCode"
+  ],
+  "registration_access_token": "Bearer 1ZLMqPziZ0m8iddM6r3Li_jCLL49Q5wxzavp00ErZHY",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "66004532791f8845d1c53734"
+  },
+  "client_id": "tzjOdqpPKwqVMaSShq_4",
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": {
+    "$date": "2024-03-24T15:22:26.222Z"
+  },
+  "client_secret_expires_at": {
+    "$date": "2024-03-24T16:22:26.222Z"
+  },
+  "grant_types": [
+    "refresh_token",
+    "authorization_code"
+  ],
+  "redirect_uris": [
+    "https://OAuth2Client:8445/OAuth2Client/GetCode"
+  ],
+  "registration_access_token": "Bearer 9w6EyB6e1_L5Q5NBSCw4BrtOXOr5xNLYXuSErbM2hyM",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "6600462119a5ed13b8d9fa5c"
+  },
+  "client_id": "xLpBtv8Bl6WW4Fxur7h8",
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": {
+    "$date": "2024-03-24T15:26:25.893Z"
+  },
+  "client_secret_expires_at": {
+    "$date": "2024-03-24T16:26:25.893Z"
+  },
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "redirect_uris": [
+    "https://OAuth2Client:8445/OAuth2Client/GetCode"
+  ],
+  "registration_access_token": "Bearer eo00aGuPLd-avGfsJlgJv6njtqxIu2OIRvxChmYOnE4",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "66004780794403178341003d"
+  },
+  "client_id": "XfK2pLO-ZlItML3RLdUI",
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": {
+    "$date": "2024-03-24T15:32:16.068Z"
+  },
+  "client_secret_expires_at": {
+    "$date": "2024-03-24T16:32:16.068Z"
+  },
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "redirect_uris": [
+    "https://OAuth2Client:8445/OAuth2Client/GetCode"
+  ],
+  "registration_access_token": "Bearer kDScKU2PozPwkqN9rSiM9JW6w89vB3n-pIzPxeJSiF4",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "66004f11a91edd71cfdf4f54"
+  },
+  "client_id": "Czb0JqQiYJwW5wQjWSVA",
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": {
+    "$date": "2024-03-24T16:04:33.824Z"
+  },
+  "client_secret_expires_at": {
+    "$date": "2024-03-24T17:04:33.824Z"
+  },
+  "grant_types": [
+    "\"refresh_token\"",
+    "\"authorization_code\""
+  ],
+  "redirect_uris": [
+    "https://OAuth2Client:8445/OAuth2Client/GetCode"
+  ],
+  "registration_access_token": "Bearer M1QRLqDOcoada2TqX22EnGaAdsl0Inqs25SAdPJTWp4",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "6600746abdaa963c74bf50de"
+  },
+  "client_id": "wtmtG-DamS_49YZStVU1",
+  "client_secret": "ddf64e4230414629abdddf44d146617d5896b08e20b9b1519b3f7883bfa19111",
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": {
+    "$date": "2024-03-24T18:43:53.938Z"
+  },
+  "client_secret_expires_at": {
+    "$date": "2024-03-24T19:43:53.938Z"
+  },
+  "grant_types": [
+    "\"authorization_code\"",
+    "\"refresh_token\""
+  ],
+  "redirect_uris": [
+    "\"https://OAuth2Client:8445/OAuth2Client/GetCode\""
+  ],
+  "registration_access_token": "Bearer Vl0geSWc17oX9tZmPXaxp9gOT15_MPia_mDbtkzMfHI",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "660125edc2d248711b05d060"
+  },
+  "client_id": "xu4FYGKurItR4m_mXHUx",
+  "client_secret": "ddf64e4230414629abdddf44d146617d5896b08e20b9b1519b3f7883bfa19111",
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": {
+    "$date": "2024-03-25T07:21:17.525Z"
+  },
+  "client_secret_expires_at": {
+    "$date": "2024-03-25T08:21:17.525Z"
+  },
+  "grant_types": [
+    "\"refresh_token\"",
+    "\"authorization_code\""
+  ],
+  "redirect_uris": [
+    "\"https://OAuth2Client:8445/OAuth2Client/GetCode\""
+  ],
+  "registration_access_token": "Bearer IBamk8xtZjwumrUWjAujuhWrzndJeCVhC7kFTfhjXA0",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "66012691c2d248711b05d062"
+  },
+  "client_id": "66eA2vBYApU9gap2SHgU",
+  "client_secret": "ddf64e4230414629abdddf44d146617d5896b08e20b9b1519b3f7883bfa19111",
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": {
+    "$date": "2024-03-25T07:24:01.208Z"
+  },
+  "client_secret_expires_at": {
+    "$date": "2024-03-25T08:24:01.208Z"
+  },
+  "grant_types": [
+    "\"authorization_code\"",
+    "\"refresh_token\""
+  ],
+  "redirect_uris": [
+    "\"https://OAuth2Client:8445/OAuth2Client/GetCode\""
+  ],
+  "registration_access_token": "Bearer BCrmNJ7CeEFsYFg78ZkDqkYydqkaNfxDkhapuFcmGns",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "660130e79187801eeb1b8572"
+  },
+  "client_id": "RxBCIl4jB89JmcDhJ1dJ",
+  "client_secret": "ddf64e4230414629abdddf44d146617d5896b08e20b9b1519b3f7883bfa19111",
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": 1711354087,
+  "client_secret_expires_at": 1711357687,
+  "grant_types": [
+    "\"refresh_token\"",
+    "\"authorization_code\""
+  ],
+  "redirect_uris": [
+    "\"https://OAuth2Client:8445/OAuth2Client/GetCode\""
+  ],
+  "registration_access_token": "Bearer vBMHxuRgfRyitDV1iiyKQQqxArG8QMbtFIoSCd135q0",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "6601343091d52d5431516e34"
+  },
+  "client_id": "Qqxy0zzWCA546EijfnFG",
+  "client_secret": "ddf64e4230414629abdddf44d146617d5896b08e20b9b1519b3f7883bfa19111",
+  "client_secret1": {
+    "secret": {
+      "$binary": {
+        "base64": "3fZOQjBBRimr3d9E0UZhfViWsI4CubFRmz94g7+hkRE=",
+        "subType": "00"
+      }
+    }
+  },
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": 1711354928,
+  "client_secret_expires_at": 1711358528,
+  "grant_types": [
+    "\"authorization_code\"",
+    "\"refresh_token\""
+  ],
+  "redirect_uris": [
+    "\"https://OAuth2Client:8445/OAuth2Client/GetCode\""
+  ],
+  "registration_access_token": "Bearer RODi7qtOBDuIo65zaEG6hCQ7pZMVou0_Avcl-H4zbiY",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "6601496c82c07c06dff29a01"
+  },
+  "client_id": "R9hcnOJJ5la1ApnhVlCD",
+  "client_secret": "ddf64e4230414629abdddf44d146617d5896b08e20b9b1519b3f7883bfa19111",
+  "client_secret_as_document": {
+    "secret": {
+      "$binary": {
+        "base64": "3fZOQjBBRimr3d9E0UZhfViWsI4CubFRmz94g7+hkRE=",
+        "subType": "00"
+      }
+    }
+  },
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": 1711360364,
+  "client_secret_expires_at": 1711363964,
+  "grant_types": [
+    "\"authorization_code\"",
+    "\"refresh_token\""
+  ],
+  "redirect_uris": [
+    "\"https://OAuth2Client:8445/OAuth2Client/GetCode\""
+  ],
+  "registration_access_token": "Bearer jalylBAhiO-ZgPdfhzPP_-dE7NrEAmr8fXy-UEU0Rgk",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "660149a382c07c06dff29a03"
+  },
+  "client_id": "kwIS9Otsl5J3qDBLQjyx",
+  "client_secret": "ddf64e4230414629abdddf44d146617d5896b08e20b9b1519b3f7883bfa19111",
+  "client_secret_as_document": {
+    "secret": {
+      "$binary": {
+        "base64": "3fZOQjBBRimr3d9E0UZhfViWsI4CubFRmz94g7+hkRE=",
+        "subType": "00"
+      }
+    }
+  },
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": 1711360419,
+  "client_secret_expires_at": 1711364019,
+  "grant_types": [
+    "\"refresh_token\"",
+    "\"authorization_code\""
+  ],
+  "redirect_uris": [
+    "\"https://OAuth2Client:8445/OAuth2Client/GetCode\""
+  ],
+  "registration_access_token": "Bearer MlnooBh7lbLQ9RY9NzyLUQ0Rxj2abj8KNCm-idfHJAs",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "660149c682c07c06dff29a05"
+  },
+  "client_id": "chsMdasQSMZ6TuCJguKJ",
+  "client_secret": "ddf64e4230414629abdddf44d146617d5896b08e20b9b1519b3f7883bfa19111",
+  "client_secret_as_document": {
+    "secret": {
+      "$binary": {
+        "base64": "3fZOQjBBRimr3d9E0UZhfViWsI4CubFRmz94g7+hkRE=",
+        "subType": "00"
+      }
+    }
+  },
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": 1711360454,
+  "client_secret_expires_at": 1711364054,
+  "grant_types": [
+    "\"authorization_code\"",
+    "\"refresh_token\""
+  ],
+  "redirect_uris": [
+    "\"https://OAuth2Client:8445/OAuth2Client/GetCode\""
+  ],
+  "registration_access_token": "Bearer 1Ljf8uTlLOXw0NqjFZa78ZCEdw5RXVEvL1HiVWBloMs",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+},
+{
+  "_id": {
+    "$oid": "66014a999b35616613798b61"
+  },
+  "client_id": "AxT2Tu5d85ENZOj61eGt",
+  "client_secret": "ddf64e4230414629abdddf44d146617d5896b08e20b9b1519b3f7883bfa19111",
+  "client_secret_as_document": {
+    "secret": {
+      "$binary": {
+        "base64": "3fZOQjBBRimr3d9E0UZhfViWsI4CubFRmz94g7+hkRE=",
+        "subType": "00"
+      }
+    }
+  },
+  "client_name": "OIDC Client Regstr",
+  "client_id_issued_at": 1711360665,
+  "client_secret_expires_at": 1711364265,
+  "grant_types": [
+    "\"authorization_code\"",
+    "\"refresh_token\""
+  ],
+  "redirect_uris": [
+    "\"https://OAuth2Client:8445/OAuth2Client/GetCode\""
+  ],
+  "registration_access_token": "Bearer BYi-9bJKdQQpWg3i6rzZIZ4kSf6p3XKhpjY9--g1Lp4",
+  "jwks_uri": "https://oauth2server:8445/Nimbusoauth2server/WebKeySet"
+}]
